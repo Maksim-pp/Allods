@@ -1,0 +1,133 @@
+.block {
+    color: #FFFFFF;
+}
+
+.fon {
+    position: absolute;
+    top: 895px;
+    z-index: 1;
+    margin: 0px;
+}
+
+.dog {
+    position: absolute;
+    top: 923px;
+    left: 359px;
+    z-index: 50;
+}
+
+.elipse {
+    position: absolute;
+    top: 845px;
+    left: 75px;
+    border: 1px;
+    opacity: 0.2px;
+    z-index: 48;
+}
+
+.info {
+    position: absolute;
+    top: 930px;
+    left: 959px;
+    z-index: 50;
+}
+
+.h1 {
+    color: #416DF4;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.buttons {
+    position: relative;
+    left: 160px;
+    margin-bottom: 20px;
+}
+
+.buttons button {
+    cursor: pointer;
+    color: #671D00;
+    border: 1px solid #671D00;
+    margin-left: 10px;
+    background-color: black;
+}
+
+.item {
+    padding: 8px 80px 1px 5px;
+    width: 550px;
+    height: 64px;
+    top: 1061px;
+    left: 960px;
+    border-radius: 1px;
+    border: 1px solid #671D00;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3px;
+    text-align: left;
+}
+
+.img {
+    position: relative;
+    width: 64px;
+    height: 64px;
+}
+
+.div {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+p {
+    width: 200px;
+}
+
+.box {
+    position: absolute;
+    left: 0px;
+    z-index: 50;
+}
+
+.price {
+    position: absolute;
+    width: 180px;
+    height: 110px;
+    top: 100px;
+    left: 250px;
+    border-radius: 7px;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 59px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.box button {
+    background: #FCFF00;
+    cursor: pointer;
+    color: #000000;
+    width: 180px;
+    height: 40px;
+    top: 1831px;
+    left: 1226px;
+    border-radius: 7px;
+    border: none;
+    z-index: 50;
+}
+
+.glow {
+    position: absolute;
+    width: 1977px;
+    height: 172px;
+    top: 1750px;
+    left: -54px;
+    z-index: 40;
+}
